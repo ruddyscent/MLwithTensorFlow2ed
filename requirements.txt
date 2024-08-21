@@ -1,7 +1,7 @@
 pandas==1.1.0
 pandas_datareader==0.9.0
 matplotlib==3.0.2
-nltk==3.6.5
+nltk==3.9
 tqdm==4.66.3
 sklearn
 scikit-image==0.17.2

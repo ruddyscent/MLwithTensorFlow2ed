@@ -2,7 +2,7 @@ jupyter==1.0.0
 pandas==0.24.2
 pandas-datareader==0.8.1
 matplotlib==2.0.2
-nltk==3.6.5
+nltk==3.9
 tqdm==4.66.3
 sklearn
 scikit-image==0.14.5
@@ -12,4 +12,4 @@ yfinance==0.1.54
 requests==2.24.0
 opencv-python==4.2.0.32
 pydub==0.24.1
-Pillow==9.3.0
+Pillow==10.3.0
