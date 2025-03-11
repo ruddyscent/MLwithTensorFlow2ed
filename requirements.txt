@@ -13,4 +13,4 @@ opencv-python==4.8.1.78
 pydub==0.24.1
 horovod~=0.18.2
 python-speech-features==0.6
-keras==2.13.1
+keras==3.9.0
